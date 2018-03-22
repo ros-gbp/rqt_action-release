@@ -1,3 +1,26 @@
+## rqt_action (melodic) - 0.4.9-0
+
+The packages in the `rqt_action` repository were released into the `melodic` distro by running `/usr/bin/bloom-release rqt_action -t melodic -r melodic --new-track` on `Thu, 22 Mar 2018 16:24:43 -0000`
+
+The `rqt_action` package was released.
+
+Version of package(s) in repository `rqt_action`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_action.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.4.9-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.3`
+- catkin_pkg version: `0.4.1`
+- rosdep version: `0.12.1`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## rqt_action (indigo) - 0.4.9-0
 
 The packages in the `rqt_action` repository were released into the `indigo` distro by running `/usr/bin/bloom-release rqt_action -t indigo -r indigo` on `Fri, 19 May 2017 07:27:49 -0000`
