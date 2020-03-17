@@ -1,3 +1,26 @@
+## rqt_action (noetic) - 0.4.9-1
+
+The packages in the `rqt_action` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic rqt_action` on `Tue, 17 Mar 2020 20:50:14 -0000`
+
+The `rqt_action` package was released.
+
+Version of package(s) in repository `rqt_action`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_action.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.4.9-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.3`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## rqt_action (melodic) - 0.4.9-0
 
 The packages in the `rqt_action` repository were released into the `melodic` distro by running `/usr/bin/bloom-release rqt_action -t melodic -r melodic --new-track` on `Thu, 22 Mar 2018 16:24:43 -0000`
